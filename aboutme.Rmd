@@ -6,5 +6,5 @@ output:
 ---
 
 
-Add some text and a figure describing myself.
+My name is Jaeyong Yoo. I am a Ph.D. student in Housing at the University of Georgia. 
 
